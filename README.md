@@ -7,3 +7,6 @@ Download/clone to wherever.
 `cd` to wherever
 
 `./rpi-temp.sh`
+
+## Prerequisites
+* A Raspberry Pi with Linux
